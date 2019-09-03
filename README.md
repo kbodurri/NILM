@@ -12,6 +12,8 @@ This paper examines the application of machine learning techniques in NILM metho
 
 ### The full paper can be found [here](https://ieeexplore.ieee.org/abstract/document/8759666).
 
+#### DOI: `10.1109/MPS.2019.8759666`
+
 ### BibTeX
 ```
 @inproceedings{Loukas2019,
