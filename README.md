@@ -1,7 +1,7 @@
 # NILM
 
 ## Info
-In this repo, we provide the code and the datasets used in the following publication.
+In this repo, we provide the **code and** the **datasets used in the following publication**, in order to promote reproduction and further research.
 
 ## A Machine Learning Approach for NILM based on Odd Harmonic Current Vectors
 #### Published in: 2019 8th International Conference on Modern Power Systems (MPS)
