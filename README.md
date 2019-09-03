@@ -14,7 +14,10 @@ This paper examines the application of machine learning techniques in NILM metho
 
 #### DOI: `10.1109/MPS.2019.8759666`
 
+---
+
 ### BibTeX
+In case our work inspires you in any way:
 ```
 @inproceedings{Loukas2019,
   doi = {10.1109/mps.2019.8759666},
